@@ -1,0 +1,36 @@
+_repo: High-Dragon-Bump_30330
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Orban, Paul
+    birthdate: 1896
+    deathdate: 1974
+    gutenberg_agent_id: '34272'
+    url: http://www.gutenberg.org/2009/agents/34272
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Thompson, Don
+    alias: Thompson, Donald Arthur
+    birthdate: 1935
+    deathdate: 1994
+    gutenberg_agent_id: '34538'
+    url: http://www.gutenberg.org/2009/agents/34538
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2009-10-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30330'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+title: High Dragon Bump
+url: http://www.gutenberg.org/ebooks/30330
