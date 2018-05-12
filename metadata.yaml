@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '34538'
     url: http://www.gutenberg.org/2009/agents/34538
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30330#High-Dragon-Bump
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2009-10-25'
 gutenberg_type: Text
